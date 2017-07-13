@@ -2,6 +2,10 @@
 authors = ["jay.w.murray@gmail.com"]
 name = "sudoku"
 version = "0.1.0"
+
+[[bin]]
+name = "sudoku"
+
 [dependencies]
 piston = "*"
-pistoncore-glutin_window = "*"
+pistoncore-glutin_window = "0.37.0"
