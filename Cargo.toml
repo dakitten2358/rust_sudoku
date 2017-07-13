@@ -8,4 +8,6 @@ name = "sudoku"
 
 [dependencies]
 piston = "*"
+piston2d-graphics = "*"
+piston2d-opengl_graphics = "*"
 pistoncore-glutin_window = "0.37.0"
