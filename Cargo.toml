@@ -1,6 +1,7 @@
 [package]
+authors = ["jay.w.murray@gmail.com"]
 name = "sudoku"
 version = "0.1.0"
-authors = ["jason-william.murray"]
 
 [dependencies]
+piston = "*"
