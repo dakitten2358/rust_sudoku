@@ -1,3 +1,7 @@
+#![deny(missing_docs)]
+
+//! Rust Sudoku game.
+
 extern crate piston;
 extern crate glutin_window;
 extern crate graphics;
