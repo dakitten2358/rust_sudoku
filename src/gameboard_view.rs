@@ -1,6 +1,7 @@
 //! Gameboard view
 use graphics::types::Color;
 use graphics::{Context, Graphics};
+use graphics::character::CharacterCache;
 
 use GameboardController;
 
@@ -28,6 +29,8 @@ pub struct GameboardViewSettings {
     pub cell_edge_radius: f64,
     /// Select cell background color
     pub selected_cell_background_color: Color,
+    /// Color of the text
+    pub text_color: Color,
 }
 
 impl GameboardViewSettings {
@@ -45,6 +48,7 @@ impl GameboardViewSettings {
             section_edge_radius: 2.0,
             cell_edge_radius: 1.0,
             selected_cell_background_color: [0.9, 0.9, 1.0, 1.0],
+            text_color: [0.0, 0.0, 0.1, 1.0],
         }
     }
 }
@@ -62,8 +66,14 @@ impl GameboardView {
     }
 
     /// Draw the gameboard
-    pub fn draw<G: Graphics>(&self, c: &Context, controller: &GameboardController, g: &mut G) {
-        use graphics::{Line, Rectangle};
+    pub fn draw<G: Graphics, GlyphType>(&self,
+                                        c: &Context,
+                                        controller: &GameboardController,
+                                        g: &mut G,
+                                        glyphs: &mut GlyphType)
+        where GlyphType: CharacterCache<Texture = G::Texture>
+    {
+        use graphics::{Line, Rectangle, Image, Transformed};
 
         let ref settings = self.settings;
         let board_rect = [settings.offset[0], settings.offset[1], settings.size, settings.size];
@@ -118,6 +128,25 @@ impl GameboardView {
                 [settings.offset[0] + pos[0], settings.offset[1] + pos[1], cell_size, cell_size];
             Rectangle::new(settings.selected_cell_background_color)
                 .draw(cell_rect, &c.draw_state, c.transform, g);
+        }
+
+        // draw characters
+        let text_iamge = Image::new_color(settings.text_color);
+        let cell_size = settings.size / 9.0;
+        for row in 0..9 {
+            for col in 0..9 {
+                if let Some(ch) = controller.gameboard.display_character_at([col, row]) {
+                    let pos = [settings.offset[0] + (col as f64 * cell_size) + 15.0,
+                               settings.offset[1] + (row as f64 * cell_size) + 34.0];
+                    let character = glyphs.character(34, ch);
+                    let ch_x = pos[0] + character.left();
+                    let ch_y = pos[1] - character.top();
+                    text_iamge.draw(character.texture,
+                                    &c.draw_state,
+                                    c.transform.trans(ch_x, ch_y),
+                                    g);
+                }
+            }
         }
     }
 }

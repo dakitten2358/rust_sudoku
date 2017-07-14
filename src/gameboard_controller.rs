@@ -53,7 +53,7 @@ impl GameboardController {
 
     /// Handles events
     pub fn event<E: GenericEvent>(&mut self, offset: [f64; 2], size: f64, e: &E) {
-        use piston::input::{Button, MouseButton};
+        use piston::input::{Button, MouseButton, Key};
 
         // track the mouse position
         if let Some(pos) = e.mouse_cursor_args() {
@@ -71,5 +71,25 @@ impl GameboardController {
                 self.selected_cell = Some(get_selected_cell(x, y, size));
             }
         }
+        // if we have a cell selected, we can set the number
+        if let Some(ind) = self.selected_cell {
+            if let Some(Button::Keyboard(key)) = e.press_args() {
+                // set the value of the cell currently selected
+                match key {
+                    Key::D1 => self.gameboard.set_cell(ind, 1),
+                    Key::D2 => self.gameboard.set_cell(ind, 2),
+                    Key::D3 => self.gameboard.set_cell(ind, 3),
+                    Key::D4 => self.gameboard.set_cell(ind, 4),
+                    Key::D5 => self.gameboard.set_cell(ind, 5),
+                    Key::D6 => self.gameboard.set_cell(ind, 6),
+                    Key::D7 => self.gameboard.set_cell(ind, 7),
+                    Key::D8 => self.gameboard.set_cell(ind, 8),
+                    Key::D9 => self.gameboard.set_cell(ind, 9),
+                    Key::Space => self.gameboard.set_cell(ind, 0),
+                    _ => {}
+                }
+            }
+        }
+
     }
 }
