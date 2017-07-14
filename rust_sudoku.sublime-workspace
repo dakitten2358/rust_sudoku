@@ -1,1 +1,2242 @@
-{}
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"SI",
+				"SIZE       Const (gameboard.rs) : const SIZE: usize = 9\\                               "
+			],
+			[
+				"CraftingSource",
+				"CraftingSourceState"
+			],
+			[
+				"Crafting",
+				"CraftingSourceData"
+			],
+			[
+				"Craf",
+				"CraftingSource"
+			],
+			[
+				"Cra",
+				"CraftingSourceData"
+			],
+			[
+				"Skip",
+				"SkipItemCraftTimeInSecondsRequest"
+			],
+			[
+				"rn_",
+				"RN_BEGIN_REGISTER"
+			],
+			[
+				"skipCra",
+				"SkipItemCraftTimeRequest"
+			],
+			[
+				"SkipI",
+				"SkipItemCraftTimeInSecondsRequest"
+			],
+			[
+				"OnSk",
+				"OnSkipItemCraftTimeInSecondsRequest"
+			],
+			[
+				"Transactio",
+				"TransactionMessagePtr"
+			],
+			[
+				"Conn",
+				"ConnectCriminalConnectionsListChanged"
+			],
+			[
+				"Narrat",
+				"NarrativeShot"
+			],
+			[
+				"RN_",
+				"RN_ENUM_VALUE"
+			],
+			[
+				"gnol",
+				"gnol_cient_id"
+			],
+			[
+				"data",
+				"datacenter"
+			],
+			[
+				"sql",
+				"gnol_sql_select"
+			],
+			[
+				"profile",
+				"profile_backup_info"
+			],
+			[
+				"For",
+				"FORCE_SINGLE_ENTRY"
+			],
+			[
+				"curren",
+				"current_completion_chapters"
+			],
+			[
+				"token_re",
+				"token_refresh_time"
+			],
+			[
+				"token",
+				"token_refresh_duration"
+			],
+			[
+				"token_",
+				"token_refresh_time"
+			],
+			[
+				"lock_",
+				"lock_auth_token"
+			],
+			[
+				"procsed",
+				"processed"
+			],
+			[
+				"proc",
+				"processed_error"
+			],
+			[
+				"fed_i",
+				"fed_id_to_check"
+			],
+			[
+				"current",
+				"current_idx"
+			],
+			[
+				"fed_",
+				"fed_id_to_check"
+			],
+			[
+				"proces",
+				"processed_error"
+			],
+			[
+				"http",
+				"http_sc"
+			],
+			[
+				"ht",
+				"http_sc"
+			],
+			[
+				"statu",
+				"status_code"
+			],
+			[
+				"output",
+				"output_csv"
+			],
+			[
+				"compl",
+				"completion_info"
+			],
+			[
+				"chapter_",
+				"chapter_index"
+			],
+			[
+				"entire_",
+				"entire_backup_profile"
+			],
+			[
+				"start",
+				"backup_start_time_string"
+			],
+			[
+				"latest",
+				"latest_backup_id"
+			],
+			[
+				"la",
+				"latest_profile"
+			],
+			[
+				"latest_",
+				"latest_profile_date"
+			],
+			[
+				"backup",
+				"backup_info"
+			],
+			[
+				"sesh",
+				"seshat_url"
+			],
+			[
+				"m_gacha",
+				"m_gachaMultiDrawAlgorithm"
+			],
+			[
+				"GAm",
+				"GachaMultiDrawAlgorithm"
+			],
+			[
+				"m_multi",
+				"m_gachaMultiDrawAlgorithm"
+			],
+			[
+				"GMDA_",
+				"GMDA_AT_LEAST_ONE_THREE_STAR"
+			],
+			[
+				"Invento",
+				"InventorySubCategory"
+			],
+			[
+				"startUp",
+				"startUpConnection"
+			],
+			[
+				"startUpEr",
+				"startUpErrand"
+			],
+			[
+				"startup",
+				"startUpConnections"
+			],
+			[
+				"ERran",
+				"Errands"
+			],
+			[
+				"m_currentR",
+				"m_currentErrandTimer"
+			],
+			[
+				"Skipp",
+				"SkippableDuration"
+			],
+			[
+				"ERrand",
+				"ErrandCommon"
+			],
+			[
+				"GetCurrent",
+				"GetCurrentErrandStartTime"
+			],
+			[
+				"tracking",
+				"trackingContext"
+			],
+			[
+				"ClaimErrandR",
+				"ClaimErrandRequest"
+			],
+			[
+				"Claim",
+				"ClaimErrandResponse"
+			],
+			[
+				"m_current",
+				"m_currentErrandStartTime"
+			],
+			[
+				"m_cu",
+				"m_currentErrandStartTime"
+			],
+			[
+				"Erran",
+				"ErrandData"
+			],
+			[
+				"err",
+				"Error"
+			],
+			[
+				"erranser",
+				"ErrandServerFacet"
+			],
+			[
+				"OnCalim",
+				"OnClaimErrandRewardsFailed"
+			],
+			[
+				"Trans",
+				"TransactionMessagePtr"
+			],
+			[
+				"para",
+				"parameterValue"
+			],
+			[
+				"GEtCurrent",
+				"GetCurrentErrandStartTime"
+			],
+			[
+				"Metagam",
+				"MetagameSkippableTimerCostCalculator"
+			],
+			[
+				"Metag",
+				"MetagameSkippableTimer"
+			],
+			[
+				"Errnad",
+				"ErrandData"
+			],
+			[
+				"Meta",
+				"MetagameSkippableDuration"
+			],
+			[
+				"Metake",
+				"MetagameSkippableDuration"
+			],
+			[
+				"MetagameS",
+				"MetagameSkippableDuration"
+			],
+			[
+				"Get",
+				"GetCurrentErrand"
+			],
+			[
+				"Valida",
+				"ValidationResult"
+			],
+			[
+				"Transa",
+				"TransactionErrorPtr"
+			],
+			[
+				"T",
+				"TransactionMessagePtr"
+			],
+			[
+				"RN",
+				"RN_END_REGISTER"
+			],
+			[
+				"Met",
+				"MetagameSkippableTimer"
+			],
+			[
+				"Metagma",
+				"MetagameSkippableTimerCostCalculator"
+			],
+			[
+				"MetagameSkippableTimer",
+				"MetagameSkippableTimerCostCalculator"
+			],
+			[
+				"Crimin",
+				"CriminalConnection"
+			],
+			[
+				"Validate",
+				"ValidationResult"
+			],
+			[
+				"Valid",
+				"ValidateErrandData"
+			],
+			[
+				"StartE",
+				"StartErrandRequest"
+			],
+			[
+				"OnStart",
+				"OnStartErrandSuccess"
+			],
+			[
+				"onstar",
+				"OnStartErrandFailed"
+			],
+			[
+				"ErrandCom",
+				"ErrandCompletedMessage"
+			],
+			[
+				"ERr",
+				"ErrandCompletedMessage"
+			],
+			[
+				"RaiseStartEr",
+				"RaiseStartErrandFailed"
+			],
+			[
+				"Err",
+				"ErrandData"
+			],
+			[
+				"Eran",
+				"ErrandClientFacet"
+			],
+			[
+				"Errand",
+				"ErrandServerFacet"
+			],
+			[
+				"Er",
+				"ErrandClientFacet"
+			],
+			[
+				"GetCu",
+				"GetCurrentLevel"
+			],
+			[
+				"target",
+				"targetItemID"
+			],
+			[
+				"Check",
+				"CheckForTooManyMaterials"
+			],
+			[
+				"fuseItemID",
+				"fuseItemIDs"
+			],
+			[
+				"getRequiredPower",
+				"getRequiredPowerIndexForMissionWithVehicle"
+			],
+			[
+				"Oppo",
+				"OpponentPlayerHealthModifier"
+			],
+			[
+				"Op",
+				"OpponentPlayerHealthCalculator"
+			],
+			[
+				"newMes",
+				"newMessageToSend"
+			],
+			[
+				"true",
+				"True"
+			],
+			[
+				"entr",
+				"entire_profile"
+			],
+			[
+				"print_",
+				"print_console"
+			],
+			[
+				"achie",
+				"achievement"
+			],
+			[
+				"print_c",
+				"verbose_print_console"
+			],
+			[
+				"is_",
+				"is_tutorial_not_completed"
+			],
+			[
+				"expe",
+				"expected_tutorial"
+			],
+			[
+				"achiev",
+				"achievement_to_find"
+			],
+			[
+				"applied_sc",
+				"applied_scripts"
+			],
+			[
+				"ver",
+				"verbose_print_console"
+			],
+			[
+				"accoun",
+				"accounts_to_check_file"
+			],
+			[
+				"corrections",
+				"corrections_file"
+			],
+			[
+				"for",
+				"FORCE_SHOULD_UPDATE"
+			],
+			[
+				"_curren",
+				"_current_state"
+			],
+			[
+				"appl",
+				"applied_scripts_backup"
+			],
+			[
+				"retr",
+				"retry_save"
+			],
+			[
+				"orign",
+				"original_copy_applied_scripts_backup"
+			],
+			[
+				"rc_sa",
+				"rc_saved_scripts"
+			],
+			[
+				"rc_sav",
+				"rc_saved_profile"
+			],
+			[
+				"applied_scripts_",
+				"applied_scripts_backup_uri"
+			],
+			[
+				"with",
+				"with_token"
+			],
+			[
+				"_curr",
+				"_current_state"
+			],
+			[
+				"applied_s",
+				"applied_scripts_backup"
+			],
+			[
+				"should",
+				"should_update_profile_data"
+			],
+			[
+				"_cur",
+				"_current_state"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/main.rs",
+			"settings":
+			{
+				"buffer_size": 900,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/gameboard.rs",
+			"settings":
+			{
+				"buffer_size": 300,
+				"encoding": "UTF-8",
+				"line_ending": "Windows",
+				"name": "ga"
+			}
+		}
+	],
+	"build_system": "Packages/Rust Enhanced/Rust.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Rust Enhanced/Rust.sublime-build",
+					""
+				],
+				[
+					"Packages/Rust Enhanced/Rust.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/Rust Enhanced/Rust.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Rust/Rust.sublime-build",
+					""
+				],
+				[
+					"Packages/Rust/Rust.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/Rust/Rust.sublime-build",
+				"Run"
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 127.0,
+		"last_filter": "isntall",
+		"selected_items":
+		[
+			[
+				"isntall",
+				"Package Control: Install Package"
+			],
+			[
+				"mini",
+				"Pretty JSON: Minify (compress) JSON"
+			],
+			[
+				"json",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"setsyntf",
+				"Set Syntax: F#"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"rust",
+				"Set Syntax: Rust"
+			],
+			[
+				"vali",
+				"Pretty JSON: Validate"
+			],
+			[
+				"valida",
+				"Pretty JSON: Validate"
+			],
+			[
+				"pret",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"minim",
+				"Pretty JSON: Minify (compress) JSON"
+			],
+			[
+				"git",
+				"Git: Commit history"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"min",
+				"Pretty JSON: Minify (compress) JSON"
+			],
+			[
+				"prett",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"jason",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"validate",
+				"Pretty JSON: Validate"
+			],
+			[
+				"c#",
+				"Set Syntax: C#"
+			],
+			[
+				"pyth",
+				"Set Syntax: Python"
+			],
+			[
+				"pretty",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"sstext",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"jsion",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"va",
+				"Pretty JSON: Validate"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"JSON",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"c++",
+				"Set Syntax: C++"
+			],
+			[
+				"ssac",
+				"Set Syntax: ActionScript 3"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"ini",
+				"Set Syntax: INI"
+			],
+			[
+				"svnlo",
+				"TortoiseSVN: Log"
+			],
+			[
+				"toml",
+				"Set Syntax: TOML"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"svn",
+				"TortoiseSVN: Log"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"blame",
+				"TortoiseSVN: Blame"
+			],
+			[
+				"11",
+				"Set Syntax: C++11"
+			],
+			[
+				"t",
+				"TortoiseSVN: Commit"
+			],
+			[
+				"jsno",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"sortby",
+				"SortBy: Length of lines"
+			],
+			[
+				"pre",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"ssjson",
+				"Set Syntax: JSON"
+			],
+			[
+				"c11",
+				"Set Syntax: C++11"
+			],
+			[
+				"packagel",
+				"Package Control: List Packages"
+			],
+			[
+				"c++11",
+				"Set Syntax: C++11"
+			],
+			[
+				"jsonform",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"prettj",
+				"Pretty JSON: Validate"
+			],
+			[
+				"pretjson",
+				"Pretty JSON: Validate"
+			],
+			[
+				"json:",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"jsonpre",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"jsonva",
+				"Pretty JSON: Validate"
+			],
+			[
+				"prettyjs",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"prjs",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"python",
+				"Set Syntax: Python"
+			],
+			[
+				"prettyjson",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"listpa",
+				"Package Control: List Packages"
+			],
+			[
+				"xml",
+				"Set Syntax: XML"
+			],
+			[
+				"jso",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"ss11",
+				"Set Syntax: C++11"
+			],
+			[
+				"ssxml",
+				"Set Syntax: XML"
+			],
+			[
+				"c+11",
+				"Set Syntax: C++11"
+			],
+			[
+				"svn log",
+				"TortoiseSVN: Log"
+			],
+			[
+				"log",
+				"TortoiseSVN: Log"
+			],
+			[
+				"listp",
+				"Package Control: List Packages"
+			],
+			[
+				"batch",
+				"Set Syntax: Batch File"
+			],
+			[
+				"listpack",
+				"Package Control: List Packages"
+			],
+			[
+				"list pack",
+				"Package Control: List Packages"
+			],
+			[
+				"ssyc++",
+				"Set Syntax: C++"
+			],
+			[
+				"svn ",
+				"TortoiseSVN: Log"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"removepac",
+				"Package Control: Remove Package"
+			],
+			[
+				"sql",
+				"Set Syntax: SQL"
+			],
+			[
+				"ssjso",
+				"Set Syntax: JSON"
+			],
+			[
+				"SSSQL",
+				"Set Syntax: SQL"
+			],
+			[
+				"sssql",
+				"Set Syntax: SQL"
+			],
+			[
+				"blam",
+				"TortoiseSVN: Blame"
+			],
+			[
+				"lo",
+				"TortoiseSVN: Log"
+			],
+			[
+				"ssc++",
+				"Set Syntax: C++"
+			],
+			[
+				"ssync++",
+				"Set Syntax: C++"
+			],
+			[
+				"svn blame",
+				"TortoiseSVN: Blame"
+			],
+			[
+				"svn blam",
+				"TortoiseSVN: Blame"
+			],
+			[
+				"svn bla",
+				"TortoiseSVN: Blame"
+			],
+			[
+				"svn lo",
+				"TortoiseSVN: Log"
+			],
+			[
+				"LOG",
+				"TortoiseSVN: Log"
+			],
+			[
+				"ssynxml",
+				"Set Syntax: XML"
+			],
+			[
+				"ssql",
+				"Set Syntax: SQL"
+			],
+			[
+				"ssysql",
+				"Set Syntax: SQL"
+			],
+			[
+				"sync++",
+				"Set Syntax: C++"
+			],
+			[
+				"packli",
+				"Package Control: List Packages"
+			],
+			[
+				"ssyn",
+				"Set Syntax: SQL"
+			],
+			[
+				"ssynsql",
+				"Set Syntax: SQL"
+			],
+			[
+				"ssynjson",
+				"Set Syntax: JSON"
+			],
+			[
+				"Package Control: re",
+				"Package Control: Remove Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"linter",
+				"SublimeLinter: Show Error List"
+			],
+			[
+				"sublimel",
+				"Preferences: SublimeLinter Settings – Default"
+			],
+			[
+				"go",
+				"GoSublime: Do a sanity check"
+			],
+			[
+				"INS",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"key",
+				"Preferences: Key Bindings - Default"
+			],
+			[
+				"pac",
+				"Package Control: Discover Packages"
+			],
+			[
+				"insta\t",
+				"Package Control: Install Package"
+			],
+			[
+				"clang",
+				"Preferences: SublimeClang Settings – Default"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 408.0
+	},
+	"console":
+	{
+		"height": 216.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": false,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/E/dev/projects/rust_sudoku"
+	],
+	"file_history":
+	[
+		"/E/dev/projects/Piston-Tutorials/sudoku/Cargo.toml",
+		"/E/dev/projects/rust_sudoku/Cargo.lock",
+		"/E/dev/projects/Piston-Tutorials/sudoku/src/main.rs",
+		"/C/Users/jason-william.murray/AppData/Roaming/Sublime Text 3/Packages/User/RustAutoComplete.sublime-settings",
+		"/E/dev/projects/rust_sudoku/Cargo.toml",
+		"/C/Users/jason-william.murray/AppData/Roaming/Sublime Text 3/Packages/RustAutoComplete/Preferences.sublime-settings",
+		"/E/dev/projects/rust_sudoku/.gitignore",
+		"/E/dev/projects/rust_sudoku/src/main.rs",
+		"/E/dev/projects/rust_sudoku/rust_sudoku.sublime-project",
+		"/E/go/game/code/projects/Kingdom/Source/GameServer/run_client.bat",
+		"/E/go/game/code/projects/Kingdom/Source/GameServer/run_client_2.bat",
+		"/E/go/game/data/config/glueconfig.json",
+		"/E/go/game/tools/GameEditor/project.ini",
+		"/E/go/game/code/projects/Kingdom/Source/GamePlugin/sources/metagame/InventoryClientFacet.cpp",
+		"/E/go/game/data/game/flashtypes/crafting_source_state.json",
+		"/E/go/game/data/game/flashtypes/crafting_source.json",
+		"/E/go/game/code/projects/Kingdom/Source/GamePlugin/sources/game/data/menu/FlashTypes.h",
+		"/E/go/game/code/projects/Kingdom/Source/GamePlugin/sources/game/data/menu/FlashTypes.cpp",
+		"/E/go/game/data/game/lib_configs.json",
+		"/C/Users/jason-william.murray/Downloads/KINGDOMS-UT-LE-23567.log",
+		"/E/go/game/code/libs/glue/source/component/ads.cpp",
+		"/E/go/game/tools/server/account_modification/gnol_find_special_event_ended_early_using_csv.py",
+		"/E/go/VisionSDK_2014_2/Bin/x64_vs2012_win7/dev/DX11/debug_country.txt",
+		"/E/go/game/code/projects/Kingdom/Source/GamePlugin/sources/game/data/player/PlayerContainers.h",
+		"/e/go/game/data/config/config_main.json",
+		"/E/go/game/data/config/fakematchmakingfile.json",
+		"/E/go_precommit/precommit.json",
+		"/E/work_in_progress_79_b.patch",
+		"/C/Users/jason-william.murray/AppData/Local/Temp/Temp1_swdddf-code.zip/code/src/OrderTaking/AppServices.fs",
+		"/E/scripts/DeleteProfile.bat",
+		"/E/go/VisionSDK_2014_2/Bin/x64_vs2012_win7/release/DX11/debug_country.txt",
+		"/E/go/game/code/projects/Kingdom/Source/GamePlugin/sources/game/data/errors/ErrorInstance.cpp",
+		"/E/go/game/code/projects/Kingdom/Source/GamePlugin/sources/glue/components/MissionComponent.cpp",
+		"/C/Users/jason-william.murray/Downloads/JetsamEvent-2017-06-09-104259.ips",
+		"/C/Users/jason-william.murray/Downloads/JetsamEvent-2017-06-12-133028.ips",
+		"/E/go/game/code/projects/Kingdom/Source/GamePlugin/sources/GameManager.cpp",
+		"/E/go/game/code/projects/Kingdom/Source/GamePlugin/sources/gachas/PurchaseGachaClientFacet.cpp",
+		"/E/go/game/data/savefiles/debugmenu_savefile.json",
+		"/E/go/game/code/projects/Kingdom/Source/GamePlugin/sources/tracking/TrackingRewardContext.cpp",
+		"/E/go/game/code/projects/Kingdom/Source/GamePlugin/sources/metagame/LiveEventClientFacet.h",
+		"/E/go/game/code/projects/Kingdom/Source/GamePlugin/sources/game/data/player/Player.cpp",
+		"/E/go/game/code/projects/Kingdom/Source/GamePlugin/sources/game/data/tle/SocialEventManager.h",
+		"/E/go/game/code/projects/Kingdom/Source/GamePlugin/sources/game/data/tle/SocialEventManager.cpp",
+		"/e/go/game/data/localization/combined/owler.json",
+		"/E/go/game/code/projects/Kingdom/Source/GamePlugin/sources/game/data/tle/EventProgressTracker.cpp",
+		"/E/go/game/code/projects/Kingdom/Source/GamePlugin/sources/game/data/rewards/PlayerRewardCollector.cpp",
+		"/E/go/game/code/projects/Kingdom/Source/GamePlugin/sources/debug/DebugActionManager.cpp",
+		"/E/go/game/code/projects/Kingdom/Source/GamePlugin/sources/glue/components/GlInventoryComponent.cpp",
+		"/E/go/game/code/projects/Kingdom/Source/GamePlugin/sources/metagame/CraftingClientFacet.cpp",
+		"/e/go/game/data/menus/src/components/CurrencyDisplayer.as",
+		"/E/go/game/code/projects/Kingdom/Source/GamePlugin/sources/gachas/PurchaseGachaServerFacet.cpp",
+		"/E/go/game/code/projects/Kingdom/Source/GamePlugin/sources/game/data/gacha/GachaDraw.cpp",
+		"/E/go/game/tools/server/account_modification/gnol_currency_mass_edit.py",
+		"/E/go/game/tools/server/copy_profile.bat",
+		"/C/Users/jason-william.murray/AppData/Local/Temp/Temp1_xu4-code-3092-trunk.zip/xu4-code-3092-trunk/u4/conf/graphics.xml",
+		"/C/Users/jason-william.murray/AppData/Local/Temp/Temp1_xu4-code-3092-trunk.zip/xu4-code-3092-trunk/u4/src/u4.cpp",
+		"/C/Users/jason-william.murray/AppData/Local/Temp/Temp1_xu4-code-3092-trunk.zip/xu4-code-3092-trunk/u4/src/tileset.h",
+		"/C/Users/jason-william.murray/AppData/Local/Temp/Temp1_xu4-code-3092-trunk.zip/xu4-code-3092-trunk/u4/src/tilemap.cpp",
+		"/C/Users/jason-william.murray/AppData/Local/Temp/Temp1_xu4-code-3092-trunk.zip/xu4-code-3092-trunk/u4/conf/tileset-base.xml",
+		"/C/Users/jason-william.murray/AppData/Local/Temp/Temp1_xu4-code-3092-trunk.zip/xu4-code-3092-trunk/u4/src/tilemap.h",
+		"/C/Users/jason-william.murray/AppData/Local/Temp/Temp1_xu4-code-3092-trunk.zip/xu4-code-3092-trunk/u4/src/tileset.cpp",
+		"/E/go/game/code/projects/Kingdom/Source/GamePlugin/sources/glue/components/ErrandsComponent.cpp",
+		"/E/go/game/code/projects/Kingdom/Source/GamePlugin/sources/metagame/common/CraftingCommon.cpp",
+		"/E/go/game/data/game/jason.json",
+		"/E/go/game/data/game/weapon_related/weapons.json",
+		"/E/go/game/data/localization/combined/inventory.json",
+		"/E/go/game/code/projects/Kingdom/Source/GamePlugin/sources/game/data/calculators/GeneralSkipTimerCalculator.cpp",
+		"/E/go/game/data/config/config_menu_debug.json",
+		"/C/Users/jason-william.murray/Downloads/9314564_1491576740_logs/QADEBUG_LOG.txt",
+		"/E/go/game/tools/server/data_centers.json",
+		"/E/go/game/data/game/_string_enums_mod.json",
+		"/E/go/game/code/projects/Kingdom/Source/GamePlugin/sources/game/data/tle/EventProgressTracker.h",
+		"/E/go/game/code/projects/Kingdom/Source/GamePlugin/sources/game/data/tle/MultiMissionEventInstance.cpp",
+		"/E/go/game/code/projects/Kingdom/Source/GamePlugin/sources/game/data/tle/MultiMissionEventInstance.h",
+		"/E/go/game/code/projects/Kingdom/Source/GamePlugin/sources/game/data/errands/CriminalConnectionData.h",
+		"/E/example_narrative_scene.json",
+		"/E/go/game/code/projects/Kingdom/Source/GamePlugin/sources/game/data/narrative/NarrativeShot.cpp",
+		"/E/go/game/code/projects/Kingdom/Source/GamePlugin/sources/game/data/narrative/NarrativeScene.cpp",
+		"/E/go/game/data/config/config_features_switches.json",
+		"/E/go/game/data/game/errors/errors_metagame.json",
+		"/E/go/game/code/projects/Kingdom/Source/GamePlugin/sources/metagame/LiveEventClientFacet.cpp",
+		"/E/go/game/code/projects/Kingdom/Source/GamePlugin/sources/glue/components/TLEComponent.cpp",
+		"/E/go/game/code/projects/Kingdom/Source/GamePlugin/sources/metagame/LiveEventServerFacet.cpp",
+		"/E/go/game/code/projects/Kingdom/Source/GamePlugin/sources/game/data/player/Player.h",
+		"/E/go/game/code/projects/Kingdom/Source/GamePlugin/sources/metagame/InventoryServerFacet.cpp",
+		"/e/go/game/data/menus/src/components/layers/FreemiumBar.as",
+		"/C/Users/jason-william.murray/AppData/Local/Temp/Temp1_xu4-code-3092-trunk.zip/xu4-code-3092-trunk/u4/src/u4_sdl.cpp",
+		"/C/Users/jason-william.murray/AppData/Local/Temp/Temp1_xu4-code-3092-trunk.zip/xu4-code-3092-trunk/u4/src/u4_sdl.h",
+		"/C/Users/jason-william.murray/AppData/Local/Temp/Temp1_xu4-code-3092-trunk.zip/xu4-code-3092-trunk/u4/src/view.cpp",
+		"/C/Users/jason-william.murray/AppData/Local/Temp/Temp1_xu4-code-3092-trunk.zip/xu4-code-3092-trunk/u4/src/view.h",
+		"/C/Users/jason-william.murray/AppData/Local/Temp/Temp1_xu4-code-3092-trunk.zip/xu4-code-3092-trunk/u4/src/controller.h",
+		"/C/Users/jason-william.murray/AppData/Local/Temp/Temp1_xu4-code-3092-trunk.zip/xu4-code-3092-trunk/u4/src/weapon.h",
+		"/C/Users/jason-william.murray/AppData/Local/Temp/Temp1_xu4-code-3092-trunk.zip/xu4-code-3092-trunk/u4/src/rle.h",
+		"/C/Users/jason-william.murray/AppData/Local/Temp/Temp1_xu4-code-3092-trunk.zip/xu4-code-3092-trunk/u4/src/city.h",
+		"/C/Users/jason-william.murray/AppData/Local/Temp/Temp1_xu4-code-3092-trunk.zip/xu4-code-3092-trunk/u4/src/map.h",
+		"/C/Users/jason-william.murray/AppData/Local/Temp/Temp1_xu4-code-3092-trunk.zip/xu4-code-3092-trunk/u4/src/cheat.h",
+		"/C/Users/jason-william.murray/AppData/Local/Temp/Temp1_xu4-code-3092-trunk.zip/xu4-code-3092-trunk/u4/src/cheat.cpp",
+		"/C/Users/jason-william.murray/AppData/Local/Temp/Temp1_xu4-code-3092-trunk.zip/xu4-code-3092-trunk/u4/conf/tileset-dungeon.xml",
+		"/C/Users/jason-william.murray/AppData/Local/Temp/Temp1_xu4-code-3092-trunk.zip/xu4-code-3092-trunk/u4/conf/tilemap-base.xml",
+		"/C/Users/jason-william.murray/AppData/Local/Temp/Temp1_xu4-code-3092-trunk.zip/xu4-code-3092-trunk/u4/conf/tilemap-dungeon.xml",
+		"/C/Users/jason-william.murray/AppData/Local/Temp/Temp1_xu4-code-3092-trunk.zip/xu4-code-3092-trunk/u4/conf/tilesets.xml",
+		"/C/Users/jason-william.murray/AppData/Local/Temp/Temp1_xu4-code-3092-trunk.zip/xu4-code-3092-trunk/u4/conf/tileRules.xml",
+		"/C/Users/jason-william.murray/AppData/Local/Temp/Temp1_xu4-code-3092-trunk.zip/xu4-code-3092-trunk/u4/conf/config.xml",
+		"/C/Users/jason-william.murray/AppData/Local/Temp/Temp1_xu4-code-3092-trunk.zip/xu4-code-3092-trunk/u4/src/spell.cpp",
+		"/C/Users/jason-william.murray/AppData/Local/Temp/Temp1_xu4-code-3092-trunk.zip/xu4-code-3092-trunk/u4/conf/maps.xml",
+		"/C/Users/jason-william.murray/AppData/Local/Temp/Temp1_xu4-code-3092-trunk.zip/xu4-code-3092-trunk/u4/conf/vendorScript.xml",
+		"/C/Users/jason-william.murray/AppData/Local/Temp/Temp1_xu4-code-3092-trunk.zip/xu4-code-3092-trunk/u4/conf/creatures.xml",
+		"/C/Users/jason-william.murray/AppData/Local/Temp/Temp1_xu4-code-3092-trunk.zip/xu4-code-3092-trunk/u4/conf/armors.xml",
+		"/E/go/game/code/projects/Kingdom/Source/GamePlugin/sources/game/instances/SkippableTimer.cpp",
+		"/E/go/game/data/game/flashtypes/item_classes.json",
+		"/E/go/game/data/game/errands/configs.json",
+		"/E/go/game/data/game/_string_enums_orig.json",
+		"/E/go/game/code/projects/Kingdom/Source/GamePlugin/sources/game/data/tle/SocialEventInstance.cpp",
+		"/E/go/game/code/projects/Kingdom/Source/GamePlugin/sources/game/data/tle/SocialEventInstance.h",
+		"/E/ganstar.sublime-project",
+		"/E/go/game/code/projects/Kingdom/Source/GamePlugin/sources/game/data/owler/ActivityTracker.cpp",
+		"/E/go/game/code/projects/Kingdom/Source/GamePlugin/sources/game/data/transactions/ReportsUpdateRequest.h",
+		"/E/go/game/code/projects/Kingdom/Source/GamePlugin/sources/glue/components/OwlerComponent.cpp",
+		"/E/go/game/code/projects/Kingdom/Source/GamePlugin/sources/game/data/calculators/SkippableTimerCostCalculatorBase.cpp",
+		"/E/go/game/code/projects/Kingdom/Source/GamePlugin/sources/game/data/time/SkippableDuration.h",
+		"/E/go/game/code/projects/Kingdom/Source/GamePlugin/sources/game/data/time/SkippableDuration.cpp",
+		"/E/go/game/code/projects/Kingdom/Source/GamePlugin/sources/game/data/calculators/GeneralSkipTimerCalculator.h",
+		"/E/go/game/code/projects/Kingdom/Source/GamePlugin/sources/metagame/CraftingServerFacet.h",
+		"/E/go/game/data/savefiles/unlink_my_device.fedscript",
+		"/E/go/game/data/menus/src/components/crafting/state/CraftingStateInProgress.as",
+		"/E/go/game/code/projects/Kingdom/Source/GamePlugin/sources/glue/components/CraftingComponent.cpp",
+		"/E/go/game/code/projects/Kingdom/Source/GamePlugin/sources/game/data/missions/NetworkMissionInstance.cpp",
+		"/E/go/game/code/projects/Kingdom/Source/GamePlugin/sources/metagame/CraftingServerFacet.cpp"
+	],
+	"find":
+	{
+		"height": 30.0
+	},
+	"find_in_files":
+	{
+		"height": 102.0,
+		"where_history":
+		[
+			"e:\\go\\game\\data",
+			"e:\\go\\game\\data\\game",
+			"e:\\go\\game\\data\\game\\errands",
+			"",
+			"e:\\go\\game\\data\\",
+			"",
+			"e:\\go\\game\\data\\menus\\src",
+			"",
+			"e:\\go\\game\\data\\game",
+			"",
+			"e:\\go\\game\\data\\",
+			"e:\\go\\game\\data\\localization",
+			"",
+			"e:\\go\\game\\code",
+			"",
+			"e:\\go\\game\\data\\game",
+			"e:\\go\\game\\data\\localization",
+			"e:\\go\\game\\data\\menus\\src",
+			"e:\\go\\game\\data\\localization",
+			"",
+			"e:\\go\\game\\data\\localization",
+			"",
+			"e:\\go\\game\\data\\game\\",
+			"",
+			"e:\\go\\game\\data\\menus\\src",
+			"e:\\go\\game\\data\\",
+			"",
+			"e:\\go\\game\\data\\menus\\src",
+			"e:\\go\\game\\data\\game",
+			"e:\\go\\game\\data\\menus\\src",
+			"",
+			"e:\\go\\game\\data\\game",
+			"e:\\go\\game\\data\\menus\\src",
+			"",
+			"e:\\go\\game\\data\\config",
+			"",
+			"e:\\go\\game\\data\\menus\\src",
+			"",
+			"e:\\go\\game\\data\\menus\\src",
+			"",
+			"e:\\go\\game\\data\\menus\\src",
+			"e:\\dev\\projects\\coopgame",
+			"",
+			"e:\\go\\game\\data",
+			"E:\\go\\game\\code\\projects\\Kingdom\\Source\\GamePlugin",
+			"e:\\go\\game\\code\\",
+			"",
+			"e:\\go\\game\\data\\localization",
+			"",
+			"E:\\dev\\Epic Games\\4.15\\Engine\\Source\\Runtime\\Engine\\Public",
+			"e:\\go\\game\\data",
+			"",
+			"e:\\go\\game\\data",
+			"",
+			"e:\\go\\game\\data\\menus\\src",
+			"",
+			"e:\\go\\game\\data\\game\\errors",
+			"",
+			"e:\\go\\game\\data\\menus\\src",
+			"",
+			"e:\\go\\game\\data\\game\\errors",
+			"e:\\go\\game\\data\\localization",
+			"e:\\go\\game\\data",
+			"",
+			"e:\\go\\game\\data\\game\\errors",
+			"",
+			"e:\\go\\game\\data\\localization",
+			"e:\\go\\game\\data\\game\\",
+			"",
+			"e:\\go\\game\\data\\game",
+			"",
+			"e:\\go\\game\\data\\game",
+			"e:\\go\\game\\data\\localization",
+			"e:\\go\\game\\data\\",
+			"e:\\go\\game\\data\\menus\\src",
+			"e:\\go\\game\\data\\menus",
+			"e:\\go\\game\\data\\menus\\src",
+			"e:\\go\\game\\data\\game",
+			"",
+			"e:\\go\\game\\data\\game\\gachas",
+			"e:\\go\\game\\data\\menus\\src",
+			"",
+			"e:\\go\\game\\data\\game",
+			"e:\\go\\game\\data\\config",
+			"e:\\go\\game\\data\\configs",
+			"",
+			"e:\\go\\game\\",
+			"e:\\go\\game\\code\\projects\\Kingdom\\Source\\GamePlugin\\",
+			"e:\\go\\game\\code\\projects\\",
+			"",
+			"e:\\go\\game\\data\\localization",
+			"",
+			"e:\\go\\game\\data\\",
+			"",
+			"e:\\go\\game\\data\\game\\gachas",
+			"",
+			"e:\\go\\game\\data\\game",
+			"",
+			"E:\\GO\\Game\\data\\menus\\src",
+			"",
+			"e:\\go\\game\\data\\game",
+			"e:\\go\\game\\data\\localization",
+			"e:\\go\\game\\localization",
+			"",
+			"e:\\go\\game\\data\\menus",
+			"e:\\go\\game\\data\\game",
+			"e:\\go\\game\\data\\localization",
+			"e:\\go\\game\\data\\src",
+			"",
+			"e:\\go\\game\\data\\menus\\src",
+			"e:\\go\\game\\data\\game",
+			"E:\\go\\game\\code\\projects\\Kingdom\\Source\\GameApplication",
+			"E:\\go\\game\\code\\projects\\Kingdom\\Source\\GamePlugin",
+			"",
+			"e:\\go\\game\\data",
+			"e:\\go\\game\\data\\localization",
+			"",
+			"e:\\go\\game\\data\\game",
+			"e:\\go\\game\\data\\",
+			"",
+			"e:\\go\\game\\data\\",
+			"e:\\go\\game\\data\\localization",
+			"",
+			"e:\\go\\game\\data\\localization",
+			"e:\\go\\game\\data\\menus\\src",
+			"e:\\go\\game\\data\\menus",
+			"e:\\go\\game\\data\\game\\npc_related",
+			"e:\\go\\game\\data\\game"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"using",
+			"userprofile",
+			"asa",
+			"gastol",
+			"geterrandsfor",
+			"getepisodes",
+			"Warning: vHavokBehaviorModule: Physics module has been configured to be stepped asynchronously. Behavior can only be stepped synchronously. Setting is overridden.",
+			"couldn't find",
+			"errands\"",
+			"CraftingSource",
+			"errand_eman_02",
+			"120120",
+			"playtest_new_game_config",
+			"errand_loot_token_theme_12_r1",
+			"token_theme_12_r1",
+			"errand_loot_token_theme_12_r1",
+			"token_theme_12_r1",
+			"special",
+			"apc",
+			"useQuickLaunch",
+			"error_add_invalid_item_id",
+			"115001",
+			"missioncom",
+			"menu_tutorial_gacha",
+			"tutorial",
+			"mansion",
+			"update",
+			"\"add\"",
+			": 0",
+			" 0",
+			"AddVehicle",
+			"GetAddVehicleParams",
+			"currentcolorinfo\": \"v",
+			"currentColorInfo",
+			"99",
+			"CURRENCY_UPDATE",
+			"OnCurrencyUpdate",
+			"<imageset",
+			"error_gacha_failed_to_draw_rewards",
+			"113005",
+			"soft_to_hard",
+			"test_skippable_duration",
+			"test_skipping_cost",
+			"Weapon.exp_rpg",
+			"desertic libera",
+			"TLE_MULTI_MISSION",
+			"updateeventinstance",
+			"UpdateEventInstance",
+			"updateventinstance",
+			"GetMultiMission",
+			"::GetMultiMissionEvent",
+			"sKIP",
+			"SkipItemCraftTimeInSecondsRequest",
+			"GetSkipTime",
+			"GetSecondsToSkip",
+			"SkipItemCraftTimeRequest",
+			"SkipItemCraftTimeInSecondsRequest",
+			"IsSkip",
+			"skip",
+			"IsSkippableWithIncentivizedVideo",
+			"m_skippableFromIncentivizedVideo",
+			"SkippableTimerCostCalculatorBase",
+			"SkippableTimerCost",
+			"SkippableDuration",
+			"skip",
+			"btn_ads",
+			"DEBUG_TRIGGER_FUNC_REPORT_INFLUENCELOST",
+			"report_influence_lost",
+			"is raising their influence",
+			"LetsGo",
+			"stringenum_narrative_tags",
+			"IN_FOCUS",
+			"left",
+			"invadditems",
+			"false",
+			"invadditems",
+			"special_event_boosters",
+			"add_items_special_event_boosters",
+			"special_event_boosters",
+			"add_items_connections_and_errands",
+			"rnname",
+			"ai_feat_",
+			"RequestEvents",
+			"119001",
+			"gacha_rule",
+			"begindefer",
+			"gacha_number",
+			"false",
+			"osd_",
+			"password:",
+			"MenuRedirectionData",
+			"legalaccepted",
+			"BITracking",
+			"StartListeningToEvents",
+			"connectlogin",
+			"connectloginfinished",
+			"connectlogin",
+			"OnLoginFinishedEvent",
+			"CONNECT_TO_SOCIAL_NETWORK",
+			"SocialNetworkEvent",
+			"TRACKING_EVENTS_CONNECT_TO_SOCIAL_NETWORK",
+			"51820",
+			"121534",
+			"VerifyLaunchResumeOptions",
+			"SendLaunchResumeOptionsEvent",
+			"LAUNCH_RESUME_OPTIONS_EVENT",
+			"254523",
+			"ANTIHACK_DYLIBS_EVENT",
+			"228397",
+			"51917",
+			"missions_buttons",
+			"CANCEL_FRIEND_REQUEST",
+			"\n\t",
+			"FRIEND_INTERACTION",
+			"TRACKING_EVENTS_FRIEND_INTERACTION",
+			"51811",
+			"Social Chat",
+			"204857",
+			"invalid_mission",
+			"mission",
+			"onresumemissionerror",
+			"RaiseMissionFailedToResume",
+			"FailureData_InvalidItem",
+			"failure_invalid_inventory",
+			"mission aborted",
+			"_currentPlayerUtils.name",
+			"onsetdisplaynameready",
+			"setName"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"",
+			"}",
+			",}",
+			"",
+			"\\n\",",
+			"",
+			"\\n AND",
+			"",
+			"[DATA_ERROR]",
+			"\\n-l",
+			"\"inventoryCategory\" : \"posse-category-tank\",",
+			"\"inventoryCategory\" : \"posse-category-sniper\",",
+			"\"inventoryCategory\" : \"posse-category-flanker\",",
+			"\"inventoryCategory\" : \"posse-category-enforcer\",",
+			"\"inventoryCategory\" : \"posse-category-charger\",",
+			"\"inventoryCategory\" : \"posse-category-bomber\",",
+			"\"inventoryCategory\" : \"posse-filter-enforcer\",",
+			"\"aiPosseArchetypeCategory\" : \"posse_cat_sniper\",\\n\"inventoryCategory\" : \"posse-filter-sniper\",",
+			"\"aiPosseArchetypeCategory\" : \"posse_cat_heavy\",\\n\"inventoryCategory\" : \"posse-filter-tank\",",
+			"\"aiPosseArchetypeCategory\" : \"posse_cat_flanker\",\\n\"inventoryCategory\" : \"posse-filter-flanker\",",
+			"\"aiPosseArchetypeCategory\" : \"posse_cat_enforcermolotov\",\\n\"inventoryCategory\" : \"posse-filter-enforcer\",",
+			"\"aiPosseArchetypeCategory\" : \"posse_cat_enforcerfrag\",\\n\"inventoryCategory\" : \"posse-filter-enforcer\",",
+			"\"aiPosseArchetypeCategory\" : \"posse_cat_enforcer\",\\n\"inventoryCategory\" : \"posse_cat_enforcer\",",
+			"\"aiPosseArchetypeCategory\" : \"posse_cat_bombardier\",\\n\"inventoryCategory\" : \"posse-filter-bomber\",",
+			"\"aiPosseArchetypeCategory\" : \"posse_cat_charger\",\\n\"inventoryCategory\" : \"posse-filter-charger\",",
+			"",
+			"\"RecommendedInventoryItemType\" : \"Weapon\",",
+			"",
+			"}",
+			"{",
+			"",
+			"\\n",
+			"\"violet\"",
+			"\\2",
+			"\\1",
+			"",
+			" ",
+			"\"rewardItem\" : \"Material_Crafting_Blueprint_01\",",
+			" ",
+			"",
+			"Material_Evolution_Sub_Posse_",
+			"Material_Evolution_Posse",
+			"Material_Crafting_Sub_Posse_",
+			"Material_Crafting_Rare_01",
+			"\"rewardItem\" : \"no_reward\"",
+			"\\n\\{",
+			"",
+			"\\n",
+			"",
+			"#include \"game/data/vehicle/VehicleInventoryCategoryFilter.h\"",
+			"\"inventoryCategory\" : \"weapon-category-hg\",",
+			"\"inventoryCategory\" : \"weapon-category-sniper\",",
+			"\"inventoryCategory\" : \"weapon-category-smg\",",
+			"\"inventoryCategory\" : \"weapon-category-shotgun\",",
+			"\"inventoryCategory\" : \"weapon-category-rifle\",",
+			"\"inventoryCategory\" : \"weapon-category-assault\",",
+			"\"inventoryCategory\" : \"weapon-category-lmg\",",
+			"\"inventoryCategory\" : \"weapon-category-hg\",",
+			"\"inventoryCategory\" : \"weapon-category-assault\",",
+			"\"inventoryCategory\" : \"weapon-category-sniper\",",
+			"\"inventoryCategory\" : \"weapon-category-smg\",",
+			"\"inventoryCategory\" : \"weapon-category-shotgun\",",
+			"\"inventoryCategory\" : \"weapon-category-rifle\",",
+			"\"inventoryCategory\" : \"weapon-category-lmg\",",
+			"\"inventoryCategory\" : \"weapon-category-hg\",",
+			"\"inventoryCategory\" : \"weapon-category-rpg\",",
+			"\"inventoryCategory\" : \"weapon-category-assault\",",
+			"",
+			"\"rewardItem\" : \"boost_item_weapon_r1\",",
+			"",
+			"\"rewardItem\" : \"boost_item_weapon_r1\",",
+			"\\. ",
+			"\\.",
+			",",
+			",\\s",
+			"",
+			"\\nMission : Unlocking",
+			"",
+			"PosseInstance",
+			"",
+			",\\n",
+			"\\n",
+			"",
+			"\\}\\n",
+			"\\n",
+			",\\n",
+			"\\n",
+			" h:\\\\code_backup\\ncopy ",
+			"Nov-2015 00:00:00",
+			"",
+			",\\n",
+			"",
+			"\\n\\{\\n",
+			"\\n{\\n",
+			",\\n",
+			"",
+			"TypedMetagameFacet",
+			"",
+			"\\",
+			"",
+			" ",
+			"",
+			",",
+			"\\t",
+			",",
+			"\\t",
+			"",
+			"\\\",\\n\\\"",
+			"",
+			"=",
+			"'",
+			"\"",
+			"",
+			"baseStabilityRecovery",
+			"baseStabilityDrop",
+			"baseStabilityRecovery",
+			"baseStabilityDrop",
+			"/",
+			"\"baseAmmo\"",
+			"\"baseStabilityMin\"",
+			"\"baseCritDmgPercent\"",
+			"\"baseCritChance\"",
+			"\"baseRateOfFire\"",
+			"\"baseEffectiveRange\"",
+			"\"baseEffectiveRange\"\n\"baseRateOfFire\"",
+			"\"baseStabilityMin\"\n\"baseRateOfFire\"",
+			"\"baseCritDmgPercent\"\n\"baseRateOfFire\"",
+			"\"baseCritChance\"\n\"baseRateOfFire\""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/main.rs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 900,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								822,
+								822
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rust/Rust.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/gameboard.rs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 300,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								300,
+								300
+							]
+						],
+						"settings":
+						{
+							"auto_name": "ga",
+							"syntax": "Packages/Rust/Rust.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"output.exec":
+	{
+		"height": 323.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Rust Enhanced/Rust.sublime-build",
+	"project": "rust_sudoku.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"lock",
+				"Cargo.lock"
+			],
+			[
+				"cargo.tom",
+				"Cargo.toml"
+			],
+			[
+				"main.",
+				"src\\main.rs"
+			],
+			[
+				"errandscompo",
+				"Plugin\\glue\\components\\ErrandsComponent.cpp"
+			],
+			[
+				"errandcom",
+				"Plugin\\metagame\\common\\ErrandCommon.h"
+			],
+			[
+				"episodevo",
+				"Flash\\models\\vo\\EpisodeVO.as"
+			],
+			[
+				"craftingreq",
+				"Plugin\\game\\data\\stash\\CraftingRequirements.h"
+			],
+			[
+				"flashtypes",
+				"Plugin\\game\\data\\menu\\FlashTypes.h"
+			],
+			[
+				"craftingsource",
+				"Plugin\\game\\data\\stash\\CraftingSource.h"
+			],
+			[
+				"lib_config",
+				"GameData\\lib_configs.json"
+			],
+			[
+				"materialsour",
+				"Flash\\config\\MaterialSourceTypes.as"
+			],
+			[
+				"configmenu",
+				"Config\\config_menu_debug.json"
+			],
+			[
+				"episodein",
+				"Plugin\\game\\instances\\EpisodeInstance.cpp"
+			],
+			[
+				"fake",
+				"Config\\fakematchmakingfile.json"
+			],
+			[
+				"glueconfig",
+				"Config\\glueconfig.json"
+			],
+			[
+				"playercontain",
+				"Plugin\\game\\data\\player\\PlayerContainers.h"
+			],
+			[
+				"player.h",
+				"Plugin\\game\\data\\player\\Player.h"
+			],
+			[
+				"rnstring",
+				"Plugin\\reflection\\types\\RnStringEnum.h"
+			],
+			[
+				"flashtype",
+				"Plugin\\game\\data\\menu\\FlashTypes.h"
+			],
+			[
+				"ads.cpp",
+				"Glue source\\component\\ads.cpp"
+			],
+			[
+				"configmenu_debu",
+				"Config\\config_menu_debug.json"
+			],
+			[
+				"lib_confi",
+				"GameData\\lib_configs.json"
+			],
+			[
+				"inventoryserver",
+				"Plugin\\metagame\\InventoryServerFacet.cpp"
+			],
+			[
+				"player.cpp",
+				"Plugin\\game\\data\\player\\Player.cpp"
+			],
+			[
+				"inventoryclientfa",
+				"Plugin\\metagame\\InventoryClientFacet.cpp"
+			],
+			[
+				"glinventory",
+				"Plugin\\glue\\components\\GlInventoryComponent.cpp"
+			],
+			[
+				"debugaction",
+				"Plugin\\debug\\DebugActionManager.cpp"
+			],
+			[
+				"narratives",
+				"Plugin\\game\\data\\narrative\\NarrativeScene.cpp"
+			],
+			[
+				"narrative",
+				"Plugin\\game\\data\\narrative\\NarrativeShot.cpp"
+			],
+			[
+				"configde",
+				"Config\\config_menu_debug.json"
+			],
+			[
+				"gachadraw",
+				"Plugin\\game\\data\\gacha\\GachaDraw.cpp"
+			],
+			[
+				"errors_meta",
+				"GameData\\errors\\errors_metagame.json"
+			],
+			[
+				"skippa",
+				"Plugin\\game\\instances\\SkippableTimer.cpp"
+			],
+			[
+				"errandscom",
+				"Plugin\\glue\\components\\ErrandsComponent.cpp"
+			],
+			[
+				"generalsk",
+				"Plugin\\game\\data\\calculators\\GeneralSkipTimerCalculator.cpp"
+			],
+			[
+				"socialeventmana",
+				"Plugin\\game\\data\\tle\\SocialEventManager.cpp"
+			],
+			[
+				"socialeventinstn",
+				"Plugin\\game\\data\\tle\\SocialEventInstance.cpp"
+			],
+			[
+				"socialeventinst",
+				"Plugin\\game\\data\\tle\\SocialEventInstance.cpp"
+			],
+			[
+				"eventprog",
+				"Plugin\\game\\data\\tle\\EventProgressTracker.cpp"
+			],
+			[
+				"multimissioneventin",
+				"Plugin\\game\\data\\tle\\MultiMissionEventInstance.cpp"
+			],
+			[
+				"skipitemcraf",
+				"Plugin\\game\\data\\transactions\\SkipItemCraftTimeRequest.h"
+			],
+			[
+				"craftingser",
+				"Plugin\\metagame\\CraftingServerFacet.cpp"
+			],
+			[
+				"skippabletim",
+				"Plugin\\game\\instances\\SkippableTimer.cpp"
+			],
+			[
+				"skipitemcra",
+				"Plugin\\game\\data\\transactions\\SkipItemCraftTimeRequest.cpp"
+			],
+			[
+				"craftingserverfa",
+				"Plugin\\metagame\\CraftingServerFacet.cpp"
+			],
+			[
+				"generalskiptime",
+				"Plugin\\game\\data\\calculators\\GeneralSkipTimerCalculator.cpp"
+			],
+			[
+				"skippabletimeco",
+				"Plugin\\game\\data\\calculators\\SkippableTimerCostCalculatorBase.cpp"
+			],
+			[
+				"skippabledur",
+				"Plugin\\game\\data\\time\\SkippableDuration.cpp"
+			],
+			[
+				"skipcostcal",
+				"Plugin\\game\\data\\calculators\\SkippableTimerCostCalculatorBase.cpp"
+			],
+			[
+				"craftingclientfa",
+				"Plugin\\metagame\\CraftingClientFacet.cpp"
+			],
+			[
+				"craftingcom",
+				"Plugin\\glue\\components\\CraftingComponent.cpp"
+			],
+			[
+				"sourcetyp",
+				"Flash\\config\\MaterialSourceTypes.as"
+			],
+			[
+				"craftingstateinpro",
+				"Flash\\components\\crafting\\state\\CraftingStateInProgress.as"
+			],
+			[
+				"missioncom",
+				"Plugin\\glue\\components\\MissionComponent.cpp"
+			],
+			[
+				"criminalconnection",
+				"Plugin\\game\\data\\errands\\CriminalConnectionData.h"
+			],
+			[
+				"narrativesho",
+				"Plugin\\game\\data\\narrative\\NarrativeShot.cpp"
+			],
+			[
+				"nativesc",
+				"Plugin\\game\\data\\narrative\\NarrativeScene.h"
+			],
+			[
+				"narativesho",
+				"Plugin\\game\\data\\narrative\\NarrativeShot.cpp"
+			],
+			[
+				"gacha",
+				"Plugin\\game\\data\\gacha\\GachaData.h"
+			],
+			[
+				"lib_conf",
+				"GameData\\lib_configs.json"
+			],
+			[
+				"errorin",
+				"Plugin\\game\\data\\errors\\ErrorInstance.cpp"
+			],
+			[
+				"gamemana",
+				"Plugin\\GameManager.cpp"
+			],
+			[
+				"liveeventser",
+				"Plugin\\metagame\\LiveEventServerFacet.cpp"
+			],
+			[
+				"tlecom",
+				"Plugin\\glue\\components\\TLEComponent.cpp"
+			],
+			[
+				"liveeventclientfa",
+				"Plugin\\metagame\\LiveEventClientFacet.cpp"
+			],
+			[
+				"networkmis",
+				"Plugin\\game\\data\\missions\\NetworkMissionInstance.cpp"
+			],
+			[
+				"glueconfig.js",
+				"Config\\glueconfig.json"
+			],
+			[
+				"gamema",
+				"Plugin\\GameManager.cpp"
+			],
+			[
+				"requirements_con",
+				"GameData\\requirements_config.json"
+			],
+			[
+				"menuredi",
+				"Plugin\\game\\data\\menu\\MenuRedirectionData.h"
+			],
+			[
+				"logineventmana",
+				"Plugin\\transactions\\LoginEventManager.cpp"
+			],
+			[
+				"appcompon",
+				"Plugin\\glue\\components\\AppComponent.cpp"
+			],
+			[
+				"friendscompo",
+				"e:\\go\\game\\code\\projects\\Kingdom\\Source\\GamePlugin\\sources\\glue\\components\\FriendsComponent.cpp"
+			],
+			[
+				"missioncompo",
+				"Plugin\\glue\\components\\MissionComponent.cpp"
+			],
+			[
+				"debugactionmana",
+				"Plugin\\debug\\DebugActionManager.cpp"
+			],
+			[
+				"playerutils",
+				"Flash\\bridges\\utils\\PlayerUtils.as"
+			],
+			[
+				"assignpos",
+				"Plugin\\metagame\\AssignPosseToPositionServerFacet.cpp"
+			],
+			[
+				"assignpo",
+				"Plugin\\metagame\\AssignPosseToPositionServerFacet.cpp"
+			],
+			[
+				"profilefix",
+				"Plugin\\player_profile_fixes\\fixes\\CheckAndUnlockMissionsBasedOnUnlockRequirements.cpp"
+			],
+			[
+				"mansioncom",
+				"Plugin\\glue\\components\\MansionComponent.cpp"
+			],
+			[
+				"inventoryfilter",
+				"Flash\\models\\vo\\InventoryCategoryFilterVO.as"
+			],
+			[
+				"configdebug",
+				"Config\\config_menu_debug.json"
+			],
+			[
+				"owlerpageb",
+				"Flash\\components\\owler\\block\\OwlerPageBlock.as"
+			],
+			[
+				"bannersc",
+				"Flash\\components\\owler\\block\\BannerSkyscraperBlock.as"
+			],
+			[
+				"owlergrou",
+				"Flash\\components\\owler\\OwlerGroup.as"
+			],
+			[
+				"owlerhigh",
+				"Flash\\components\\owler\\HighLights.as"
+			],
+			[
+				"owler.as",
+				"Flash\\components\\owler\\OwlerGroup.as"
+			],
+			[
+				"rnname",
+				"Plugin\\reflection\\types\\RnName.h"
+			],
+			[
+				"mission_types.json",
+				"GameData\\missions\\_config_mission\\mission_types.json"
+			],
+			[
+				"dailyquestcom",
+				"Plugin\\glue\\components\\DailyQuestComponent.cpp"
+			],
+			[
+				"stashcompo",
+				"Plugin\\glue\\components\\StashComponent.cpp"
+			],
+			[
+				"collectiontracker",
+				"Plugin\\game\\data\\collections\\CollectionTracker.cpp"
+			],
+			[
+				"missioncomponen",
+				"Plugin\\glue\\components\\MissionComponent.cpp"
+			],
+			[
+				"missionsbri",
+				"Flash\\bridges\\MissionsBridge.as"
+			],
+			[
+				"questdata",
+				"Plugin\\game\\data\\quests\\QuestData.cpp"
+			],
+			[
+				"dailyquestconfig",
+				"GameData\\quests_and_achievs\\daily_quest_config.json"
+			],
+			[
+				"gachacom",
+				"Plugin\\glue\\components\\GachaComponent.cpp"
+			],
+			[
+				"gachamatertra",
+				"Plugin\\game\\data\\gacha\\GachaMatchersTracker.h"
+			],
+			[
+				"missionmana",
+				"Plugin\\missions\\MissionManager.h"
+			],
+			[
+				"missiondata",
+				"Plugin\\game\\data\\missions\\MissionData.h"
+			],
+			[
+				"trackingfunction",
+				"Plugin\\tracking\\TrackingFunctionUtility.cpp"
+			],
+			[
+				"missionserver",
+				"Plugin\\metagame\\PlayerMissionServerFacet.cpp"
+			],
+			[
+				"_000",
+				"GameData\\gachas\\big_boxes\\bb_loot_tables_final_000.json"
+			],
+			[
+				"rnon",
+				"Plugin\\reflection\\types\\RnLoadOnDemand.cpp"
+			],
+			[
+				"posseinventor",
+				"Plugin\\game\\data\\gear\\PosseInventoryCategoryFilter.cpp"
+			],
+			[
+				"rnname.h",
+				"Plugin\\reflection\\types\\RnName.h"
+			],
+			[
+				"purchasega",
+				"Plugin\\gachas\\PurchaseGachaClientFacet.cpp"
+			],
+			[
+				"glinventorycom",
+				"Plugin\\glue\\components\\GlInventoryComponent.cpp"
+			],
+			[
+				"collectreward",
+				"Plugin\\game\\data\\rewards\\CollectedReward.h"
+			],
+			[
+				"notificationbarupdateda",
+				"Plugin\\game\\data\\owler\\NotificationBarUpdateData.cpp"
+			],
+			[
+				"killscoreda",
+				"Plugin\\game\\data\\missions\\KillScoreData.h"
+			],
+			[
+				"itemsource",
+				"Plugin\\game\\data\\metagame\\ItemSource.h"
+			],
+			[
+				"purchasegachaclientfa",
+				"Plugin\\gachas\\PurchaseGachaClientFacet.cpp"
+			],
+			[
+				"requi",
+				"Plugin\\game\\data\\requirements\\RequirementRule.h"
+			],
+			[
+				"requirements.cpp",
+				"Plugin\\game\\data\\requirements\\Requirements.cpp"
+			],
+			[
+				"featureswi",
+				"Plugin\\debug\\FeaturesSwitches.cpp"
+			],
+			[
+				"featureswitch",
+				"Config\\config_features_switches.json"
+			],
+			[
+				"invenservfa",
+				"Plugin\\metagame\\InventoryServerFacet.cpp"
+			],
+			[
+				"criminalcon",
+				"Plugin\\game\\data\\errands\\CriminalConnection.h"
+			],
+			[
+				"criminalconnectionda",
+				"Plugin\\game\\data\\errands\\CriminalConnectionData.h"
+			],
+			[
+				"inventoryclient",
+				"Plugin\\metagame\\InventoryClientFacet.cpp"
+			],
+			[
+				"inventoryser",
+				"Plugin\\metagame\\InventoryServerFacet.cpp"
+			],
+			[
+				"glinven",
+				"Plugin\\glue\\components\\GlInventoryComponent.cpp"
+			],
+			[
+				"debugactionma",
+				"Plugin\\debug\\DebugActionManager.cpp"
+			],
+			[
+				"configbrid",
+				"Flash\\bridges\\ConfigBridge.as"
+			],
+			[
+				"commoninven",
+				"Plugin\\game\\data\\CommonInventoryItem.h"
+			],
+			[
+				"weapondata",
+				"Plugin\\game\\data\\weapons\\WeaponData.h"
+			],
+			[
+				"posse_list",
+				"GameData\\npc_related\\posse\\posse_list.json"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"/H/Joust.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 315.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
