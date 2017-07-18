@@ -9,6 +9,26 @@ pub struct Gameboard {
     pub cells: [[u8; SIZE]; SIZE],
 }
 
+fn is_last_column(col: usize) -> bool {
+    col == (SIZE-1)
+}
+
+fn all_rows_complete(row: usize) -> bool {
+    SIZE == row
+}
+
+fn next_ind(ind: [usize; 2]) -> [usize; 2] {
+    let col = ind[0];
+    let row = ind[1];
+
+    if is_last_column(col) {
+        return [0, row + 1];
+    }
+    else {
+        return [col + 1, row];
+    }
+}
+
 impl Gameboard {
     /// Creates a new gameboard
     pub fn new() -> Gameboard {
@@ -77,22 +97,19 @@ impl Gameboard {
 
     /// solve a gameboard
     pub fn solve(&mut self, ind:[usize; 2]) -> bool {
+        let col = ind[0];
+        let row = ind[1];
+
         // make sure we exit if we're done
-        if SIZE == ind[1] {
+        if all_rows_complete(row) {
             return true;
         }
 
         // skip cells that already have a value
-        if self.cells[ind[1]][ind[0]] > 0 {
-            if ind[0] == (SIZE-1) {
-                if self.solve([0, ind[1] + 1]) {
-                    return true;
-                }
-            }
-            else {
-                if self.solve([ind[0] + 1, ind[1]]) {
-                    return true;
-                }
+        if self.cells[row][col] > 0 {
+            let next = next_ind(ind);
+            if self.solve(next) {
+                return true;
             }
         }
 
@@ -100,15 +117,9 @@ impl Gameboard {
             if self.is_valid(ind, next_val) {
                 self.set_cell(ind, next_val);
 
-                if ind[0] == (SIZE-1) {
-                    if self.solve([0, ind[1] + 1]) {
-                        return true;
-                    }
-                }
-                else {
-                    if self.solve([ind[0] + 1, ind[1]]) {
-                        return true;
-                    }
+                let next = next_ind(ind);
+                if self.solve(next) {
+                    return true;
                 }
 
                 self.set_cell(ind, 0);
